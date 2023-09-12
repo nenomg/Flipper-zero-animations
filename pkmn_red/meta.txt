@@ -7,7 +7,7 @@ Passive frames: 2
 Active frames: 0
 Frames order: 0 1
 Active cycles: 0
-Frame rate: 6
+Frame rate: 4
 Duration: 50000
 Active cooldown: 0
 
